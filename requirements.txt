@@ -15,4 +15,5 @@ typer
 torch
 lightning
 opencv-python
+loguru
 -e .
