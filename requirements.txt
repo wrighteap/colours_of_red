@@ -13,7 +13,9 @@ scikit-learn
 tqdm
 typer
 torch
+torchvision
 lightning
 opencv-python
+pillow
 loguru
 -e .
